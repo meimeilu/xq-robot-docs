@@ -55,7 +55,7 @@
 ### 核心模块
 - [SLAM建图指南](docs/slam/) - 环境建模完整流程
 - [自主导航教程](docs/navigation/) - 基于地图的导航
-- [硬件使用手册](docs/hardware/) - 传感器配置
+- [硬件使用手册] - 传感器配置
 
 ### 快速开始
 1. [选择你的建图模式](docs/slam/1SLAM建图.pdf#page=7)
